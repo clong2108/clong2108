@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hello, my name is Calvin Long and I am a Computer Science and Engineering student at The Ohio State University. I am also pursuing a minor in statistics.
+Hello, my name is Calvin Long and I am a Computer Science and Engineering student at The Ohio State University. I am also pursuing a minor in statistics. Test
 <!--
 **clong2108/clong2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
